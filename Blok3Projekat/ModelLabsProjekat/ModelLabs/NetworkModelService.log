@@ -1,0 +1,651 @@
+7/12/2019 4:51:12 PM : Starting Network Model Serivice...
+7/12/2019 4:51:16 PM : The WCF service GenericDataAccess is ready.
+7/12/2019 4:51:16 PM : Endpoints:
+7/12/2019 4:51:16 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/12/2019 4:51:16 PM : Connection string: ../NetworkModelData.data
+7/12/2019 4:51:16 PM : Trace level: Info
+7/12/2019 4:51:16 PM : The Network Model Service is started.
+7/12/2019 4:51:16 PM : Press <Enter> to stop the service.
+8/13/2019 8:17:11 PM : Starting Network Model Serivice...
+8/13/2019 8:17:13 PM : The WCF service GenericDataAccess is ready.
+8/13/2019 8:17:13 PM : Endpoints:
+8/13/2019 8:17:13 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/13/2019 8:17:13 PM : Connection string: ../NetworkModelData.data
+8/13/2019 8:17:13 PM : Trace level: Info
+8/13/2019 8:17:13 PM : The Network Model Service is started.
+8/13/2019 8:17:13 PM : Press <Enter> to stop the service.
+8/13/2019 8:17:40 PM : Applying  delta to network model.
+8/13/2019 8:17:41 PM : Inserting entity with GID (0000000400000001).
+8/13/2019 8:17:41 PM : Inserting entity with GID (0000000500000001).
+8/13/2019 8:17:41 PM : Inserting entity with GID (0000000300000001).
+8/13/2019 8:17:41 PM : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+8/13/2019 8:17:41 PM : Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+8/13/2019 8:17:41 PM : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001)..
+8/13/2019 8:36:06 PM : Starting Network Model Serivice...
+8/13/2019 8:36:08 PM : The WCF service GenericDataAccess is ready.
+8/13/2019 8:36:08 PM : Endpoints:
+8/13/2019 8:36:08 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/13/2019 8:36:08 PM : Connection string: ../NetworkModelData.data
+8/13/2019 8:36:08 PM : Trace level: Info
+8/13/2019 8:36:08 PM : The Network Model Service is started.
+8/13/2019 8:36:08 PM : Press <Enter> to stop the service.
+8/13/2019 8:36:52 PM : Applying  delta to network model.
+8/13/2019 8:36:52 PM : Inserting entity with GID (0000000400000001).
+8/13/2019 8:36:52 PM : Inserting entity with GID (0000000500000001).
+8/13/2019 8:36:52 PM : Inserting entity with GID (0000000300000001).
+8/13/2019 8:36:52 PM : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+8/13/2019 8:36:53 PM : Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+8/13/2019 8:36:53 PM : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001)..
+9/3/2019 17:52:23 : Starting Network Model Serivice...
+9/3/2019 17:52:26 : The WCF service GenericDataAccess is ready.
+9/3/2019 17:52:26 : Endpoints:
+9/3/2019 17:52:26 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/3/2019 17:52:26 : Connection string: ../NetworkModelData.data
+9/3/2019 17:52:26 : Trace level: Info
+9/3/2019 17:52:26 : The Network Model Service is started.
+9/3/2019 17:52:26 : Press <Enter> to stop the service.
+9/3/2019 17:53:30 : Applying  delta to network model.
+9/3/2019 17:53:31 : Inserting entity with GID (0000000400000001).
+9/3/2019 17:53:31 : Inserting entity with GID (0000000500000001).
+9/3/2019 17:53:31 : Inserting entity with GID (0000000300000001).
+9/3/2019 17:53:31 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 17:53:31 : Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 17:53:31 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001)..
+9/3/2019 18:08:46 : Starting Network Model Serivice...
+9/3/2019 18:08:46 : Inserting entity with GID (0000000400000001).
+9/3/2019 18:08:46 : Inserting entity with GID (0000000500000001).
+9/3/2019 18:08:46 : Inserting entity with GID (0000000300000001).
+9/3/2019 18:08:46 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:08:46 : Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:08:46 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:08:47 : The WCF service GenericDataAccess is ready.
+9/3/2019 18:08:47 : Endpoints:
+9/3/2019 18:08:47 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/3/2019 18:08:47 : Connection string: ../NetworkModelData.data
+9/3/2019 18:08:47 : Trace level: Info
+9/3/2019 18:08:47 : The Network Model Service is started.
+9/3/2019 18:08:47 : Press <Enter> to stop the service.
+9/3/2019 18:09:26 : Applying  delta to network model.
+9/3/2019 18:09:26 : Inserting entity with GID (0000000400000002).
+9/3/2019 18:09:26 : Inserting entity with GID (0000000500000002).
+9/3/2019 18:09:26 : Inserting entity with GID (0000000300000002).
+9/3/2019 18:09:26 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:09:26 : Failed to insert entity (GID = 0x0000000300000002) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:09:26 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000300000002) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002)..
+9/3/2019 18:14:42 : Starting Network Model Serivice...
+9/3/2019 18:14:42 : Inserting entity with GID (0000000400000001).
+9/3/2019 18:14:42 : Inserting entity with GID (0000000500000001).
+9/3/2019 18:14:42 : Inserting entity with GID (0000000300000001).
+9/3/2019 18:14:42 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:14:42 : Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:14:42 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:14:42 : Inserting entity with GID (0000000400000002).
+9/3/2019 18:14:42 : Inserting entity with GID (0000000500000002).
+9/3/2019 18:14:42 : Inserting entity with GID (0000000300000002).
+9/3/2019 18:14:42 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:14:42 : Failed to insert entity (GID = 0x0000000300000002) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:14:42 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000300000002) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:14:42 : The WCF service GenericDataAccess is ready.
+9/3/2019 18:14:42 : Endpoints:
+9/3/2019 18:14:42 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/3/2019 18:14:42 : Connection string: ../NetworkModelData.data
+9/3/2019 18:14:42 : Trace level: Info
+9/3/2019 18:14:42 : The Network Model Service is started.
+9/3/2019 18:14:42 : Press <Enter> to stop the service.
+9/3/2019 18:15:07 : Applying  delta to network model.
+9/3/2019 18:15:07 : Inserting entity with GID (0000000400000003).
+9/3/2019 18:15:07 : Inserting entity with GID (0000000500000003).
+9/3/2019 18:15:07 : Inserting entity with GID (0000000300000003).
+9/3/2019 18:15:07 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003).
+9/3/2019 18:15:07 : Failed to insert entity (GID = 0x0000000300000003) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003).
+9/3/2019 18:15:07 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000300000003) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003)..
+9/3/2019 18:22:11 : Starting Network Model Serivice...
+9/3/2019 18:22:11 : Inserting entity with GID (0000000400000001).
+9/3/2019 18:22:12 : Inserting entity with GID (0000000500000001).
+9/3/2019 18:22:12 : Inserting entity with GID (0000000300000001).
+9/3/2019 18:22:12 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:22:12 : Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:22:12 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:22:12 : Inserting entity with GID (0000000400000002).
+9/3/2019 18:22:12 : Inserting entity with GID (0000000500000002).
+9/3/2019 18:22:12 : Inserting entity with GID (0000000300000002).
+9/3/2019 18:22:12 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:22:12 : Failed to insert entity (GID = 0x0000000300000002) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:22:12 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000300000002) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:22:12 : Inserting entity with GID (0000000400000003).
+9/3/2019 18:22:12 : Inserting entity with GID (0000000500000003).
+9/3/2019 18:22:12 : Inserting entity with GID (0000000300000003).
+9/3/2019 18:22:12 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003).
+9/3/2019 18:22:12 : Failed to insert entity (GID = 0x0000000300000003) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003).
+9/3/2019 18:22:12 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000300000003) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003).
+9/3/2019 18:22:13 : The WCF service GenericDataAccess is ready.
+9/3/2019 18:22:13 : Endpoints:
+9/3/2019 18:22:13 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/3/2019 18:22:13 : Connection string: ../NetworkModelData.data
+9/3/2019 18:22:13 : Trace level: Info
+9/3/2019 18:22:13 : The Network Model Service is started.
+9/3/2019 18:22:13 : Press <Enter> to stop the service.
+9/3/2019 18:22:27 : Applying  delta to network model.
+9/3/2019 18:22:27 : Inserting entity with GID (0000000400000004).
+9/3/2019 18:22:27 : Inserting entity with GID (0000000500000004).
+9/3/2019 18:22:27 : Inserting entity with GID (0000000300000004).
+9/3/2019 18:22:27 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000004).
+9/3/2019 18:22:27 : Failed to insert entity (GID = 0x0000000300000004) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000004).
+9/3/2019 18:22:27 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000300000004) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000004)..
+9/3/2019 18:29:36 : Starting Network Model Serivice...
+9/3/2019 18:29:36 : Inserting entity with GID (0000000400000001).
+9/3/2019 18:29:36 : Inserting entity with GID (0000000500000001).
+9/3/2019 18:29:36 : Inserting entity with GID (0000000300000001).
+9/3/2019 18:29:36 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:29:36 : Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:29:36 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:29:36 : Inserting entity with GID (0000000400000002).
+9/3/2019 18:29:36 : Inserting entity with GID (0000000500000002).
+9/3/2019 18:29:36 : Inserting entity with GID (0000000300000002).
+9/3/2019 18:29:36 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:29:36 : Failed to insert entity (GID = 0x0000000300000002) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:29:36 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000300000002) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:29:36 : Inserting entity with GID (0000000400000003).
+9/3/2019 18:29:36 : Inserting entity with GID (0000000500000003).
+9/3/2019 18:29:36 : Inserting entity with GID (0000000300000003).
+9/3/2019 18:29:36 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003).
+9/3/2019 18:29:36 : Failed to insert entity (GID = 0x0000000300000003) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003).
+9/3/2019 18:29:36 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000300000003) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003).
+9/3/2019 18:29:36 : Inserting entity with GID (0000000400000004).
+9/3/2019 18:29:36 : Inserting entity with GID (0000000500000004).
+9/3/2019 18:29:36 : Inserting entity with GID (0000000300000004).
+9/3/2019 18:29:36 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000004).
+9/3/2019 18:29:36 : Failed to insert entity (GID = 0x0000000300000004) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000004).
+9/3/2019 18:29:36 : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000300000004) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000004).
+9/3/2019 18:29:36 : The WCF service GenericDataAccess is ready.
+9/3/2019 18:29:36 : Endpoints:
+9/3/2019 18:29:36 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/3/2019 18:29:36 : Connection string: ../NetworkModelData.data
+9/3/2019 18:29:36 : Trace level: Info
+9/3/2019 18:29:36 : The Network Model Service is started.
+9/3/2019 18:29:36 : Press <Enter> to stop the service.
+9/3/2019 18:34:32 : Applying  delta to network model.
+9/3/2019 18:34:32 : Inserting entity with GID (0000000400000005).
+9/3/2019 18:34:32 : Inserting entity with GID (0000000500000005).
+9/3/2019 18:34:32 : Inserting entity with GID (0000000300000005).
+9/3/2019 18:34:32 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000005).
+9/3/2019 18:34:33 : Failed to insert entity (GID = 0x0000000300000005) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000005).
+9/3/2019 18:34:33 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000300000005) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000005)..
+9/3/2019 18:35:56 : Applying  delta to network model.
+9/3/2019 18:35:56 : Inserting entity with GID (0000000400000006).
+9/3/2019 18:35:56 : Inserting entity with GID (0000000500000006).
+9/3/2019 18:35:56 : Inserting entity with GID (0000000300000006).
+9/3/2019 18:35:56 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000006).
+9/3/2019 18:35:56 : Failed to insert entity (GID = 0x0000000300000006) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000006).
+9/3/2019 18:35:56 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000300000006) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000006)..
+9/3/2019 18:36:35 : Applying  delta to network model.
+9/3/2019 18:36:35 : Inserting entity with GID (0000000400000007).
+9/3/2019 18:36:35 : Inserting entity with GID (0000000500000007).
+9/3/2019 18:36:35 : Inserting entity with GID (0000000300000007).
+9/3/2019 18:36:35 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000007).
+9/3/2019 18:36:35 : Failed to insert entity (GID = 0x0000000300000007) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000007).
+9/3/2019 18:36:35 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000300000007) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000007)..
+9/3/2019 18:37:46 : Starting Network Model Serivice...
+9/3/2019 18:37:46 : Inserting entity with GID (0000000400000001).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000500000001).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000300000001).
+9/3/2019 18:37:46 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:37:46 : Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:37:46 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000400000002).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000500000002).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000300000002).
+9/3/2019 18:37:46 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:37:46 : Failed to insert entity (GID = 0x0000000300000002) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:37:46 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000300000002) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000400000003).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000500000003).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000300000003).
+9/3/2019 18:37:46 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003).
+9/3/2019 18:37:46 : Failed to insert entity (GID = 0x0000000300000003) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003).
+9/3/2019 18:37:46 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000300000003) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000400000004).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000500000004).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000300000004).
+9/3/2019 18:37:46 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000004).
+9/3/2019 18:37:46 : Failed to insert entity (GID = 0x0000000300000004) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000004).
+9/3/2019 18:37:46 : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000300000004) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000004).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000400000005).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000500000005).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000300000005).
+9/3/2019 18:37:46 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000005).
+9/3/2019 18:37:46 : Failed to insert entity (GID = 0x0000000300000005) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000005).
+9/3/2019 18:37:46 : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000300000005) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000005).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000400000006).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000500000006).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000300000006).
+9/3/2019 18:37:46 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000006).
+9/3/2019 18:37:46 : Failed to insert entity (GID = 0x0000000300000006) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000006).
+9/3/2019 18:37:46 : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000300000006) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000006).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000400000007).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000500000007).
+9/3/2019 18:37:46 : Inserting entity with GID (0000000300000007).
+9/3/2019 18:37:46 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000007).
+9/3/2019 18:37:46 : Failed to insert entity (GID = 0x0000000300000007) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000007).
+9/3/2019 18:37:46 : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000300000007) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000007).
+9/3/2019 18:37:46 : The WCF service GenericDataAccess is ready.
+9/3/2019 18:37:46 : Endpoints:
+9/3/2019 18:37:46 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/3/2019 18:37:46 : Connection string: ../NetworkModelData.data
+9/3/2019 18:37:46 : Trace level: Info
+9/3/2019 18:37:46 : The Network Model Service is started.
+9/3/2019 18:37:46 : Press <Enter> to stop the service.
+9/3/2019 18:38:44 : Applying  delta to network model.
+9/3/2019 18:38:44 : Inserting entity with GID (0000000400000008).
+9/3/2019 18:38:44 : Inserting entity with GID (0000000500000008).
+9/3/2019 18:38:44 : Inserting entity with GID (0000000300000008).
+9/3/2019 18:38:44 : Unknown property id = BASICINTERVALSCHEDULE_VALUE1MULTIPLIER for entity (GID = 0x0000000300000008).
+9/3/2019 18:38:44 : Failed to insert entity (GID = 0x0000000300000008) into model. Unknown property id = BASICINTERVALSCHEDULE_VALUE1MULTIPLIER for entity (GID = 0x0000000300000008).
+9/3/2019 18:38:44 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000300000008) into model. Unknown property id = BASICINTERVALSCHEDULE_VALUE1MULTIPLIER for entity (GID = 0x0000000300000008)..
+9/3/2019 18:44:36 : Starting Network Model Serivice...
+9/3/2019 18:44:37 : Inserting entity with GID (0000000400000001).
+9/3/2019 18:45:04 : Inserting entity with GID (0000000500000001).
+9/3/2019 18:45:04 : Inserting entity with GID (0000000300000001).
+9/3/2019 18:45:04 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:45:04 : Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:45:04 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:45:04 : Inserting entity with GID (0000000400000002).
+9/3/2019 18:45:10 : Inserting entity with GID (0000000500000002).
+9/3/2019 18:45:10 : Inserting entity with GID (0000000300000002).
+9/3/2019 18:45:10 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:45:10 : Failed to insert entity (GID = 0x0000000300000002) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:45:10 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000300000002) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000002).
+9/3/2019 18:45:10 : Inserting entity with GID (0000000400000003).
+9/3/2019 18:45:16 : Inserting entity with GID (0000000500000003).
+9/3/2019 18:45:16 : Inserting entity with GID (0000000300000003).
+9/3/2019 18:45:16 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003).
+9/3/2019 18:45:16 : Failed to insert entity (GID = 0x0000000300000003) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003).
+9/3/2019 18:45:16 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000300000003) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000003).
+9/3/2019 18:45:16 : Inserting entity with GID (0000000400000004).
+9/3/2019 18:45:21 : Inserting entity with GID (0000000500000004).
+9/3/2019 18:45:21 : Inserting entity with GID (0000000300000004).
+9/3/2019 18:45:21 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000004).
+9/3/2019 18:45:21 : Failed to insert entity (GID = 0x0000000300000004) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000004).
+9/3/2019 18:45:21 : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000300000004) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000004).
+9/3/2019 18:45:21 : Inserting entity with GID (0000000400000005).
+9/3/2019 18:45:41 : Inserting entity with GID (0000000500000005).
+9/3/2019 18:45:41 : Inserting entity with GID (0000000300000005).
+9/3/2019 18:45:41 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000005).
+9/3/2019 18:45:41 : Failed to insert entity (GID = 0x0000000300000005) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000005).
+9/3/2019 18:45:41 : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000300000005) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000005).
+9/3/2019 18:45:41 : Inserting entity with GID (0000000400000006).
+9/3/2019 18:45:43 : Inserting entity with GID (0000000500000006).
+9/3/2019 18:45:43 : Inserting entity with GID (0000000300000006).
+9/3/2019 18:45:43 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000006).
+9/3/2019 18:45:43 : Failed to insert entity (GID = 0x0000000300000006) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000006).
+9/3/2019 18:45:43 : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000300000006) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000006).
+9/3/2019 18:45:43 : Inserting entity with GID (0000000400000007).
+9/3/2019 18:45:46 : Inserting entity with GID (0000000500000007).
+9/3/2019 18:45:46 : Inserting entity with GID (0000000300000007).
+9/3/2019 18:45:46 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000007).
+9/3/2019 18:45:46 : Failed to insert entity (GID = 0x0000000300000007) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000007).
+9/3/2019 18:45:46 : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000300000007) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000007).
+9/3/2019 18:45:46 : Inserting entity with GID (0000000400000008).
+9/3/2019 18:45:54 : Inserting entity with GID (0000000500000008).
+9/3/2019 18:45:54 : Inserting entity with GID (0000000300000008).
+9/3/2019 18:45:54 : Unknown property id = BASICINTERVALSCHEDULE_VALUE1MULTIPLIER for entity (GID = 0x0000000300000008).
+9/3/2019 18:45:54 : Failed to insert entity (GID = 0x0000000300000008) into model. Unknown property id = BASICINTERVALSCHEDULE_VALUE1MULTIPLIER for entity (GID = 0x0000000300000008).
+9/3/2019 18:45:54 : Error while applying delta (id = 8) during service initialization. Failed to insert entity (GID = 0x0000000300000008) into model. Unknown property id = BASICINTERVALSCHEDULE_VALUE1MULTIPLIER for entity (GID = 0x0000000300000008).
+9/3/2019 18:45:54 : The WCF service GenericDataAccess is ready.
+9/3/2019 18:45:54 : Endpoints:
+9/3/2019 18:45:54 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/3/2019 18:45:54 : Connection string: ../NetworkModelData.data
+9/3/2019 18:45:54 : Trace level: Info
+9/3/2019 18:45:54 : The Network Model Service is started.
+9/3/2019 18:45:54 : Press <Enter> to stop the service.
+9/3/2019 18:48:28 : Starting Network Model Serivice...
+9/3/2019 18:48:28 : The WCF service GenericDataAccess is ready.
+9/3/2019 18:48:28 : Endpoints:
+9/3/2019 18:48:28 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/3/2019 18:48:28 : Connection string: ../NetworkModelData.data
+9/3/2019 18:48:28 : Trace level: Info
+9/3/2019 18:48:28 : The Network Model Service is started.
+9/3/2019 18:48:28 : Press <Enter> to stop the service.
+9/3/2019 18:49:03 : Applying  delta to network model.
+9/3/2019 18:49:03 : Inserting entity with GID (0000000400000001).
+9/3/2019 18:49:40 : Inserting entity with GID (0000000500000001).
+9/3/2019 18:49:40 : Inserting entity with GID (0000000300000001).
+9/3/2019 18:49:40 : Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:49:40 : Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001).
+9/3/2019 18:49:40 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000300000001) into model. Unknown property id = BASICINTERVALSCHEDULE_STARTTIME for entity (GID = 0x0000000300000001)..
+9/3/2019 18:51:33 : Starting Network Model Serivice...
+9/3/2019 18:51:34 : Inserting entity with GID (0000000400000001).
+9/3/2019 18:51:44 : Inserting entity with GID (0000000500000001).
+9/3/2019 18:51:44 : Inserting entity with GID (0000000300000001).
+9/3/2019 18:51:49 : Inserting entity with GID (0000000600000001).
+9/3/2019 18:51:49 : Inserting entity with GID (0000000200000001).
+9/3/2019 18:51:49 : Inserting entity with GID (0000000100000001).
+9/3/2019 18:51:49 : The WCF service GenericDataAccess is ready.
+9/3/2019 18:51:49 : Endpoints:
+9/3/2019 18:51:49 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/3/2019 18:51:49 : Connection string: ../NetworkModelData.data
+9/3/2019 18:51:49 : Trace level: Info
+9/3/2019 18:51:49 : The Network Model Service is started.
+9/3/2019 18:51:49 : Press <Enter> to stop the service.
+9/3/2019 18:52:14 : Applying  delta to network model.
+9/3/2019 18:52:14 : Inserting entity with GID (0000000400000002).
+9/3/2019 18:52:14 : Inserting entity with GID (0000000500000002).
+9/3/2019 18:52:14 : Inserting entity with GID (0000000300000002).
+9/3/2019 18:52:14 : Inserting entity with GID (0000000600000002).
+9/3/2019 18:52:14 : Inserting entity with GID (0000000200000002).
+9/3/2019 18:52:14 : Inserting entity with GID (0000000100000002).
+9/3/2019 18:52:14 : Applying delta to network model successfully finished.
+9/3/2019 18:52:46 : Applying  delta to network model.
+9/3/2019 18:52:46 : Inserting entity with GID (0000000400000003).
+9/3/2019 18:52:46 : Inserting entity with GID (0000000500000003).
+9/3/2019 18:52:46 : Inserting entity with GID (0000000300000003).
+9/3/2019 18:52:46 : Inserting entity with GID (0000000600000003).
+9/3/2019 18:52:46 : Inserting entity with GID (0000000200000003).
+9/3/2019 18:52:46 : Inserting entity with GID (0000000100000003).
+9/3/2019 18:52:46 : Applying delta to network model successfully finished.
+9/3/2019 18:53:42 : Starting Network Model Serivice...
+9/3/2019 18:53:43 : Inserting entity with GID (0000000400000001).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000500000001).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000300000001).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000600000001).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000200000001).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000100000001).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000400000002).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000500000002).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000300000002).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000600000002).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000200000002).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000100000002).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000400000003).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000500000003).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000300000003).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000600000003).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000200000003).
+9/3/2019 18:53:43 : Inserting entity with GID (0000000100000003).
+9/3/2019 18:53:43 : The WCF service GenericDataAccess is ready.
+9/3/2019 18:53:43 : Endpoints:
+9/3/2019 18:53:43 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/3/2019 18:53:43 : Connection string: ../NetworkModelData.data
+9/3/2019 18:53:43 : Trace level: Info
+9/3/2019 18:53:43 : The Network Model Service is started.
+9/3/2019 18:53:43 : Press <Enter> to stop the service.
+9/3/2019 18:54:02 : Applying  delta to network model.
+9/3/2019 18:54:02 : Inserting entity with GID (0000000400000004).
+9/3/2019 18:54:02 : Inserting entity with GID (0000000500000004).
+9/3/2019 18:54:02 : Inserting entity with GID (0000000300000004).
+9/3/2019 18:54:02 : Inserting entity with GID (0000000600000004).
+9/3/2019 18:54:02 : Inserting entity with GID (0000000200000004).
+9/3/2019 18:54:02 : Inserting entity with GID (0000000100000004).
+9/3/2019 18:54:02 : Applying delta to network model successfully finished.
+9/3/2019 18:56:50 : Unknown property id = IRREGULARIINTERVALSCHEDULE_TIMEPOINTS for entity (GID = 0x0000000300000004).
+9/3/2019 18:56:50 : Getting values for resource with ID = 0x0000000300000004 failed. Failed to get values for entity with GID = 0x0000000300000004. Unknown property id = IRREGULARIINTERVALSCHEDULE_TIMEPOINTS for entity (GID = 0x0000000300000004).
+9/3/2019 19:06:34 : Starting Network Model Serivice...
+9/3/2019 19:06:34 : Inserting entity with GID (0000000400000001).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000500000001).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000300000001).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000600000001).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000200000001).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000100000001).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000400000002).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000500000002).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000300000002).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000600000002).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000200000002).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000100000002).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000400000003).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000500000003).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000300000003).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000600000003).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000200000003).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000100000003).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000400000004).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000500000004).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000300000004).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000600000004).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000200000004).
+9/3/2019 19:06:34 : Inserting entity with GID (0000000100000004).
+9/3/2019 19:06:35 : The WCF service GenericDataAccess is ready.
+9/3/2019 19:06:35 : Endpoints:
+9/3/2019 19:06:35 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/3/2019 19:06:35 : Connection string: ../NetworkModelData.data
+9/3/2019 19:06:35 : Trace level: Info
+9/3/2019 19:06:35 : The Network Model Service is started.
+9/3/2019 19:06:35 : Press <Enter> to stop the service.
+9/17/2019 15:59:33 : Starting Network Model Serivice...
+9/17/2019 15:59:36 : Inserting entity with GID (0000000400000001).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000500000001).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000300000001).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000600000001).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000200000001).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000100000001).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000400000002).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000500000002).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000300000002).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000600000002).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000200000002).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000100000002).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000400000003).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000500000003).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000300000003).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000600000003).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000200000003).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000100000003).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000400000004).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000500000004).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000300000004).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000600000004).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000200000004).
+9/17/2019 15:59:36 : Inserting entity with GID (0000000100000004).
+9/17/2019 15:59:39 : The WCF service GenericDataAccess is ready.
+9/17/2019 15:59:39 : Endpoints:
+9/17/2019 15:59:39 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/17/2019 15:59:39 : Connection string: ../NetworkModelData.data
+9/17/2019 15:59:39 : Trace level: Info
+9/17/2019 15:59:39 : The Network Model Service is started.
+9/17/2019 15:59:39 : Press <Enter> to stop the service.
+9/17/2019 16:00:34 : Applying  delta to network model.
+9/17/2019 16:00:34 : Inserting entity with GID (0000000400000005).
+9/17/2019 16:00:34 : Inserting entity with GID (0000000500000005).
+9/17/2019 16:00:34 : Inserting entity with GID (0000000300000005).
+9/17/2019 16:00:34 : Inserting entity with GID (0000000600000005).
+9/17/2019 16:00:34 : Inserting entity with GID (0000000200000005).
+9/17/2019 16:00:34 : Inserting entity with GID (0000000100000005).
+9/17/2019 16:00:34 : Applying delta to network model successfully finished.
+9/17/2019 16:10:44 : Starting Network Model Serivice...
+9/17/2019 16:10:45 : The WCF service GenericDataAccess is ready.
+9/17/2019 16:10:45 : Endpoints:
+9/17/2019 16:10:45 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/17/2019 16:10:45 : Connection string: ../NetworkModelData.data
+9/17/2019 16:10:45 : Trace level: Info
+9/17/2019 16:10:45 : The Network Model Service is started.
+9/17/2019 16:10:45 : Press <Enter> to stop the service.
+9/17/2019 16:11:37 : Applying  delta to network model.
+9/17/2019 16:11:37 : Inserting entity with GID (0000000400000001).
+9/17/2019 16:11:37 : Inserting entity with GID (0000000500000001).
+9/17/2019 16:11:37 : Inserting entity with GID (0000000300000001).
+9/17/2019 16:11:37 : Inserting entity with GID (0000000600000001).
+9/17/2019 16:11:37 : Inserting entity with GID (0000000200000001).
+9/17/2019 16:11:37 : Inserting entity with GID (0000000100000001).
+9/17/2019 16:11:37 : Applying delta to network model successfully finished.
+9/17/2019 16:31:09 : Starting Network Model Serivice...
+9/17/2019 16:31:10 : Inserting entity with GID (0000000400000001).
+9/17/2019 16:31:10 : Inserting entity with GID (0000000500000001).
+9/17/2019 16:31:10 : Inserting entity with GID (0000000300000001).
+9/17/2019 16:31:10 : Inserting entity with GID (0000000600000001).
+9/17/2019 16:31:10 : Inserting entity with GID (0000000200000001).
+9/17/2019 16:31:10 : Inserting entity with GID (0000000100000001).
+9/17/2019 16:31:10 : The WCF service GenericDataAccess is ready.
+9/17/2019 16:31:10 : Endpoints:
+9/17/2019 16:31:10 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/17/2019 16:31:10 : Connection string: ../NetworkModelData.data
+9/17/2019 16:31:10 : Trace level: Info
+9/17/2019 16:31:10 : The Network Model Service is started.
+9/17/2019 16:31:10 : Press <Enter> to stop the service.
+9/17/2019 16:31:45 : Starting Network Model Serivice...
+9/17/2019 16:31:45 : The WCF service GenericDataAccess is ready.
+9/17/2019 16:31:45 : Endpoints:
+9/17/2019 16:31:45 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/17/2019 16:31:45 : Connection string: ../NetworkModelData.data
+9/17/2019 16:31:45 : Trace level: Info
+9/17/2019 16:31:45 : The Network Model Service is started.
+9/17/2019 16:31:45 : Press <Enter> to stop the service.
+9/17/2019 16:39:22 : Starting Network Model Serivice...
+9/17/2019 16:39:22 : The WCF service GenericDataAccess is ready.
+9/17/2019 16:39:22 : Endpoints:
+9/17/2019 16:39:22 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/17/2019 16:39:22 : Connection string: ../NetworkModelData.data
+9/17/2019 16:39:22 : Trace level: Info
+9/17/2019 16:39:22 : The Network Model Service is started.
+9/17/2019 16:39:22 : Press <Enter> to stop the service.
+9/17/2019 16:46:48 : Starting Network Model Serivice...
+9/17/2019 16:46:49 : The WCF service GenericDataAccess is ready.
+9/17/2019 16:46:49 : Endpoints:
+9/17/2019 16:46:49 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/17/2019 16:46:49 : Connection string: ../NetworkModelData.data
+9/17/2019 16:46:49 : Trace level: Info
+9/17/2019 16:46:49 : The Network Model Service is started.
+9/17/2019 16:46:49 : Press <Enter> to stop the service.
+9/17/2019 16:51:23 : Starting Network Model Serivice...
+9/17/2019 16:51:23 : The WCF service GenericDataAccess is ready.
+9/17/2019 16:51:23 : Endpoints:
+9/17/2019 16:51:23 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/17/2019 16:51:23 : Connection string: ../NetworkModelData.data
+9/17/2019 16:51:23 : Trace level: Info
+9/17/2019 16:51:23 : The Network Model Service is started.
+9/17/2019 16:51:23 : Press <Enter> to stop the service.
+9/17/2019 16:52:00 : Applying  delta to network model.
+9/17/2019 16:52:00 : Inserting entity with GID (0000000400000001).
+9/17/2019 16:52:00 : Inserting entity with GID (0000000500000001).
+9/17/2019 16:52:00 : Inserting entity with GID (0000000300000001).
+9/17/2019 16:52:00 : Inserting entity with GID (0000000600000001).
+9/17/2019 16:52:00 : Inserting entity with GID (0000000200000001).
+9/17/2019 16:52:00 : Inserting entity with GID (0000000100000001).
+9/17/2019 16:52:00 : Applying delta to network model successfully finished.
+9/17/2019 16:59:52 : Starting Network Model Serivice...
+9/17/2019 16:59:53 : Inserting entity with GID (0000000400000001).
+9/17/2019 16:59:53 : Inserting entity with GID (0000000500000001).
+9/17/2019 16:59:53 : Inserting entity with GID (0000000300000001).
+9/17/2019 16:59:53 : Inserting entity with GID (0000000600000001).
+9/17/2019 16:59:53 : Inserting entity with GID (0000000200000001).
+9/17/2019 16:59:53 : Inserting entity with GID (0000000100000001).
+9/17/2019 16:59:53 : The WCF service GenericDataAccess is ready.
+9/17/2019 16:59:53 : Endpoints:
+9/17/2019 16:59:53 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/17/2019 16:59:53 : Connection string: ../NetworkModelData.data
+9/17/2019 16:59:53 : Trace level: Info
+9/17/2019 16:59:53 : The Network Model Service is started.
+9/17/2019 16:59:53 : Press <Enter> to stop the service.
+9/18/2019 17:53:23 : Starting Network Model Serivice...
+9/18/2019 17:53:23 : The WCF service GenericDataAccess is ready.
+9/18/2019 17:53:24 : Endpoints:
+9/18/2019 17:53:24 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 17:53:24 : Connection string: ../NetworkModelData.data
+9/18/2019 17:53:24 : Trace level: Info
+9/18/2019 17:53:24 : The Network Model Service is started.
+9/18/2019 17:53:24 : Press <Enter> to stop the service.
+9/18/2019 17:54:02 : Starting Network Model Serivice...
+9/18/2019 17:54:02 : The WCF service GenericDataAccess is ready.
+9/18/2019 17:54:02 : Endpoints:
+9/18/2019 17:54:02 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 17:54:02 : Connection string: ../NetworkModelData.data
+9/18/2019 17:54:02 : Trace level: Info
+9/18/2019 17:54:02 : The Network Model Service is started.
+9/18/2019 17:54:02 : Press <Enter> to stop the service.
+9/18/2019 17:54:21 : Applying  delta to network model.
+9/18/2019 17:54:21 : Inserting entity with GID (0000000400000001).
+9/18/2019 17:54:21 : Inserting entity with GID (0000000500000001).
+9/18/2019 17:54:21 : Inserting entity with GID (0000000300000001).
+9/18/2019 17:54:21 : Inserting entity with GID (0000000600000001).
+9/18/2019 17:54:21 : Inserting entity with GID (0000000200000001).
+9/18/2019 17:54:21 : Inserting entity with GID (0000000100000001).
+9/18/2019 17:54:21 : Applying delta to network model successfully finished.
+9/18/2019 18:01:16 : Starting Network Model Serivice...
+9/18/2019 18:01:17 : Inserting entity with GID (0000000400000001).
+9/18/2019 18:01:17 : Inserting entity with GID (0000000500000001).
+9/18/2019 18:01:17 : Inserting entity with GID (0000000300000001).
+9/18/2019 18:01:17 : Inserting entity with GID (0000000600000001).
+9/18/2019 18:01:17 : Inserting entity with GID (0000000200000001).
+9/18/2019 18:01:17 : Inserting entity with GID (0000000100000001).
+9/18/2019 18:01:18 : The WCF service GenericDataAccess is ready.
+9/18/2019 18:01:18 : Endpoints:
+9/18/2019 18:01:18 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 18:01:18 : Connection string: ../NetworkModelData.data
+9/18/2019 18:01:18 : Trace level: Info
+9/18/2019 18:01:18 : The Network Model Service is started.
+9/18/2019 18:01:18 : Press <Enter> to stop the service.
+9/19/2019 16:28:37 : Starting Network Model Serivice...
+9/19/2019 16:28:38 : Inserting entity with GID (0000000400000001).
+9/19/2019 16:28:38 : Inserting entity with GID (0000000500000001).
+9/19/2019 16:28:38 : Inserting entity with GID (0000000300000001).
+9/19/2019 16:28:38 : Inserting entity with GID (0000000600000001).
+9/19/2019 16:28:38 : Inserting entity with GID (0000000200000001).
+9/19/2019 16:28:38 : Inserting entity with GID (0000000100000001).
+9/19/2019 16:28:41 : The WCF service GenericDataAccess is ready.
+9/19/2019 16:28:41 : Endpoints:
+9/19/2019 16:28:41 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/19/2019 16:28:41 : Connection string: ../NetworkModelData.data
+9/19/2019 16:28:41 : Trace level: Info
+9/19/2019 16:28:41 : The Network Model Service is started.
+9/19/2019 16:28:41 : Press <Enter> to stop the service.
+9/19/2019 16:29:20 : Starting Network Model Serivice...
+9/19/2019 16:29:21 : The WCF service GenericDataAccess is ready.
+9/19/2019 16:29:21 : Endpoints:
+9/19/2019 16:29:21 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/19/2019 16:29:21 : Connection string: ../NetworkModelData.data
+9/19/2019 16:29:21 : Trace level: Info
+9/19/2019 16:29:21 : The Network Model Service is started.
+9/19/2019 16:29:21 : Press <Enter> to stop the service.
+9/19/2019 16:30:13 : Applying  delta to network model.
+9/19/2019 16:30:13 : Inserting entity with GID (0000000400000001).
+9/19/2019 16:30:13 : Inserting entity with GID (0000000500000001).
+9/19/2019 16:30:13 : Inserting entity with GID (0000000500000002).
+9/19/2019 16:30:13 : Inserting entity with GID (0000000300000001).
+9/19/2019 16:30:13 : Inserting entity with GID (0000000600000001).
+9/19/2019 16:30:13 : Inserting entity with GID (0000000200000001).
+9/19/2019 16:30:13 : Inserting entity with GID (0000000100000001).
+9/19/2019 16:30:13 : Applying delta to network model successfully finished.
+9/19/2019 16:43:45 : Starting Network Model Serivice...
+9/19/2019 16:43:45 : Inserting entity with GID (0000000400000001).
+9/19/2019 16:43:45 : Inserting entity with GID (0000000500000001).
+9/19/2019 16:43:45 : Inserting entity with GID (0000000500000002).
+9/19/2019 16:43:45 : Inserting entity with GID (0000000300000001).
+9/19/2019 16:43:45 : Inserting entity with GID (0000000600000001).
+9/19/2019 16:43:45 : Inserting entity with GID (0000000200000001).
+9/19/2019 16:43:45 : Inserting entity with GID (0000000100000001).
+9/19/2019 16:43:46 : The WCF service GenericDataAccess is ready.
+9/19/2019 16:43:46 : Endpoints:
+9/19/2019 16:43:46 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/19/2019 16:43:46 : Connection string: ../NetworkModelData.data
+9/19/2019 16:43:46 : Trace level: Info
+9/19/2019 16:43:46 : The Network Model Service is started.
+9/19/2019 16:43:46 : Press <Enter> to stop the service.
+9/19/2019 16:45:19 : Starting Network Model Serivice...
+9/19/2019 16:45:19 : Inserting entity with GID (0000000400000001).
+9/19/2019 16:45:19 : Inserting entity with GID (0000000500000001).
+9/19/2019 16:45:19 : Inserting entity with GID (0000000500000002).
+9/19/2019 16:45:19 : Inserting entity with GID (0000000300000001).
+9/19/2019 16:45:19 : Inserting entity with GID (0000000600000001).
+9/19/2019 16:45:19 : Inserting entity with GID (0000000200000001).
+9/19/2019 16:45:19 : Inserting entity with GID (0000000100000001).
+9/19/2019 16:45:21 : The WCF service GenericDataAccess is ready.
+9/19/2019 16:45:21 : Endpoints:
+9/19/2019 16:45:21 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/19/2019 16:45:21 : Connection string: ../NetworkModelData.data
+9/19/2019 16:45:21 : Trace level: Info
+9/19/2019 16:45:21 : The Network Model Service is started.
+9/19/2019 16:45:21 : Press <Enter> to stop the service.
+9/19/2019 16:48:18 : Starting Network Model Serivice...
+9/19/2019 16:48:18 : Inserting entity with GID (0000000400000001).
+9/19/2019 16:48:18 : Inserting entity with GID (0000000500000001).
+9/19/2019 16:48:18 : Inserting entity with GID (0000000500000002).
+9/19/2019 16:48:18 : Inserting entity with GID (0000000300000001).
+9/19/2019 16:48:18 : Inserting entity with GID (0000000600000001).
+9/19/2019 16:48:18 : Inserting entity with GID (0000000200000001).
+9/19/2019 16:48:18 : Inserting entity with GID (0000000100000001).
+9/19/2019 16:48:20 : The WCF service GenericDataAccess is ready.
+9/19/2019 16:48:20 : Endpoints:
+9/19/2019 16:48:20 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/19/2019 16:48:20 : Connection string: ../NetworkModelData.data
+9/19/2019 16:48:20 : Trace level: Info
+9/19/2019 16:48:20 : The Network Model Service is started.
+9/19/2019 16:48:20 : Press <Enter> to stop the service.

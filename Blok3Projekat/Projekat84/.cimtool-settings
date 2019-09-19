@@ -1,0 +1,23 @@
+@prefix dc:      <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix project:  <http://cimtoole.langdale.com.au/2009/project/> .
+@prefix tool:    <http://cimtoole.langdale.com.au/2009/setting#> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix uml:     <http://langdale.com.au/2005/UML#> .
+@prefix msg:     <http://langdale.com.au/2005/Message#> .
+
+project:
+      tool:merged_schema_path
+              "" .
+
+<http://cimtoole.langdale.com.au/2009/project/Profiles/ProfilProjekat84.owl>
+      tool:profile_envelope
+              "Profile" ;
+      tool:profile_namespace
+              "http://iec.ch/TC57/2007/profile#" .
+
+<http://cimtoole.langdale.com.au/2009/project/Schema/SIMES_Labs.xmi>
+      tool:schema_namespace
+              "http://iec.ch/TC57/2010/CIM-schema-cim15#" .

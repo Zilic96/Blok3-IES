@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config transient="false">
+	<site enabled="true" updateable="true" policy="USER-EXCLUDE" url="platform:/base/">
+		<feature id="org.eclipse.equinox.p2.user.ui" url="features/org.eclipse.equinox.p2.user.ui_1.1.0.v20090605-1440-7u6Fb3FbPbJP5MjJjZgifk/" version="1.1.0.v20090605-1440-7u6Fb3FbPbJP5MjJjZgifk">
+		</feature>
+		<feature id="org.eclipse.platform" url="features/org.eclipse.platform_3.5.0.v20090611a-9gEeG1HFtQcmRThO4O3aR_fqSMvJR2sJ/" version="3.5.0.v20090611a-9gEeG1HFtQcmRThO4O3aR_fqSMvJR2sJ">
+		</feature>
+		<feature id="org.eclipse.help" plugin-identifier="org.eclipse.help.base" url="features/org.eclipse.help_1.1.0.v20090602-7e7eFAlFEx2XZoYqwI68e2F/" version="1.1.0.v20090602-7e7eFAlFEx2XZoYqwI68e2F">
+		</feature>
+		<feature id="au.com.langdale.cimtoole.feature" url="features/au.com.langdale.cimtoole.feature_1.8.3.201007121434/" version="1.8.3.201007121434">
+		</feature>
+		<feature id="org.eclipse.rcp" url="features/org.eclipse.rcp_3.5.0.v20090519-9SA0FwxFv6x089WEf-TWh11/" version="3.5.0.v20090519-9SA0FwxFv6x089WEf-TWh11">
+		</feature>
+	</site>
+</config>

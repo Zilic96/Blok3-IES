@@ -1,0 +1,96 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="7">
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="CURVE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CURVE_1" />
+            <Property id="IDOBJ_NAME" value="Curve" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias Curve" />
+            <Property id="CURVE_STYLE" value="constantYValue" />
+            <Property id="CURVE_XMULTIPLIER" value="M" />
+            <Property id="CURVE_XUNIT" value="A" />
+            <Property id="CURVE_Y1MULTIPLIER" value="micro" />
+            <Property id="CURVE_Y1UNIT" value="deg" />
+            <Property id="CURVE_Y2MULTIPLIER" value="c" />
+            <Property id="CURVE_Y2UNIT" value="degC" />
+            <Property id="CURVE_Y3MULTIPLIER" value="k" />
+            <Property id="CURVE_Y3UNIT" value="A" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="CURVEDATA" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CURVE_DATA_1" />
+            <Property id="IDOBJ_NAME" value="Curve Data" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias Curve Data" />
+            <Property id="CURVEDATA_XVALUE" value="1389" />
+            <Property id="CURVEDATA_Y1VALUE" value="40" />
+            <Property id="CURVEDATA_Y2VALUE" value="147" />
+            <Property id="CURVEDATA_Y3VALUE" value="158" />
+            <Property id="CURVEDATA_CURVE" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="CURVEDATA" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CURVE_DATA_2" />
+            <Property id="IDOBJ_NAME" value="Curve Data" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias Curve Data 2" />
+            <Property id="CURVEDATA_XVALUE" value="1200" />
+            <Property id="CURVEDATA_Y1VALUE" value="50" />
+            <Property id="CURVEDATA_Y2VALUE" value="60" />
+            <Property id="CURVEDATA_Y3VALUE" value="70" />
+            <Property id="CURVEDATA_CURVE" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="OUTAGESCHEDULE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="OUTAGESCHEDULE_1" />
+            <Property id="IDOBJ_NAME" value="Outage Schedule" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias Outage Schedule" />
+            <Property id="BASICINTERVALSCHEDULE_STARTTIME" value="636802134000000000" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE1MULTIPLIER" value="p" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE1UNIT" value="deg" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE2MULTIPLIER" value="c" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE2UNIT" value="degC" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="IRREGULARTIMEPOINT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="IRREGULARTIMEPOINT_1" />
+            <Property id="IDOBJ_NAME" value="Irregular Time Point" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias Irregular Time Point" />
+            <Property id="IRREGULARTIMEPOINT_TIME" value="40" />
+            <Property id="IRREGULARTIMEPOINT_VALUE1" value="415" />
+            <Property id="IRREGULARTIMEPOINT_VALUE2" value="147" />
+            <Property id="IRREGULARTIMEPOINT_IRREGULARIINTERVALSCHEDULE" value="0x00000003ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="SWITCHINGOPERATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="SWITCHINGOPERATION_1" />
+            <Property id="IDOBJ_NAME" value="Switching Operation" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias Switching Operation" />
+            <Property id="SWITCHINGOPERATION_NEWSTATE" value="open" />
+            <Property id="SWITCHINGOPERATION_OPERATIONTIME" value="636802135200000000" />
+            <Property id="SWITCHINGOPERATION_OUTAGESCHEDULE" value="0x00000003ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="GROUNDDDISCONNECTOR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="GROUNDDISCONNECTOR_1" />
+            <Property id="IDOBJ_NAME" value="Ground Disconnector" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias Ground Disconnector" />
+            <Property id="SWITCH_SWITCHINGOPERATION" value="0x00000002ffffffff" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>

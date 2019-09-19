@@ -1,0 +1,19 @@
+9/3/2019 18:54:21 : Network Model Service Test Client is up and running...
+9/3/2019 18:54:21 : Result directory: ../Results
+9/3/2019 18:54:34 : Getting values method started.
+9/3/2019 18:54:34 : Getting values method successfully finished.
+9/3/2019 18:56:16 : Getting values method started.
+9/3/2019 18:56:16 : Getting values method successfully finished.
+9/3/2019 18:56:44 : Getting values method started.
+9/3/2019 18:57:09 : Getting values method for entered id = 12884901892 failed.
+	Getting values for resource with ID = 0x0000000300000004 failed. Failed to get values for entity with GID = 0x0000000300000004. Unknown property id = IRREGULARIINTERVALSCHEDULE_TIMEPOINTS for entity (GID = 0x0000000300000004).
+9/3/2019 18:58:40 : Getting values method started.
+9/3/2019 18:58:40 : Getting values method successfully finished.
+9/3/2019 18:58:56 : Getting values method started.
+9/3/2019 18:58:56 : Getting values method successfully finished.
+9/3/2019 18:59:09 : Getting values method started.
+9/3/2019 18:59:09 : Getting values method successfully finished.
+9/3/2019 19:06:46 : Network Model Service Test Client is up and running...
+9/3/2019 19:06:46 : Result directory: ../Results
+9/3/2019 19:06:55 : Getting values method started.
+9/3/2019 19:06:56 : Getting values method successfully finished.

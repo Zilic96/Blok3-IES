@@ -1,0 +1,25 @@
+#Fri Jul 12 18:05:44 CEST 2019
+repositories/http\:__download.eclipse.org_eclipse_updates_3.5/uri=http\://download.eclipse.org/eclipse/updates/3.5
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_.eclipseextension/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
+repositories/http\:__download.eclipse.org_eclipse_updates_3.5/enabled=true
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_.eclipseextension/enabled=true
+repositories/http\:__download.eclipse.org_eclipse_updates_3.5/count=1
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_configuration_org.eclipse.osgi_bundles_83_data_listener_1925729951/isSystem=true
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_configuration_org.eclipse.osgi_bundles_83_data_listener_1925729951/version=1
+repositories/http\:__download.eclipse.org_releases_galileo/enabled=true
+eclipse.preferences.version=1
+repositories/http\:__download.eclipse.org_eclipse_updates_3.5/nickname=The Eclipse Project Updates
+repositories/http\:__download.eclipse.org_releases_galileo/count=1
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_configuration_org.eclipse.osgi_bundles_83_data_listener_1925729951/description=
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_.eclipseextension/description=
+repositories/http\:__download.eclipse.org_releases_galileo/uri=http\://download.eclipse.org/releases/galileo
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_configuration_org.eclipse.osgi_bundles_83_data_listener_1925729951/name=metadata listener dropins
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_configuration_org.eclipse.osgi_bundles_83_data_listener_1925729951/provider=
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_.eclipseextension/provider=
+repositories/http\:__download.eclipse.org_releases_galileo/nickname=Galileo
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_.eclipseextension/uri=file\:/C\:/Users/zilic/Desktop/KBlo%203/Blok3Projekat/Projekat84/Schema/CIMTool-Eclipse-1.8.3/eclipse/.eclipseextension
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_configuration_org.eclipse.osgi_bundles_83_data_listener_1925729951/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_.eclipseextension/isSystem=true
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_configuration_org.eclipse.osgi_bundles_83_data_listener_1925729951/uri=file\:/C\:/Users/zilic/Desktop/KBlo%203/Blok3Projekat/Projekat84/Schema/CIMTool-Eclipse-1.8.3/eclipse/configuration/org.eclipse.osgi/bundles/83/data/listener_1925729951/
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_.eclipseextension/name=C\:\\Users\\zilic\\Desktop\\KBlo 3\\Blok3Projekat\\Projekat84\\Schema\\CIMTool-Eclipse-1.8.3\\eclipse\\.eclipseextension
+repositories/file\:_C\:_Users_zilic_Desktop_KBlo%203_Blok3Projekat_Projekat84_Schema_CIMTool-Eclipse-1.8.3_eclipse_.eclipseextension/version=1
